@@ -26,9 +26,9 @@
   "author": "typicode <typicode@gmail.com>",
   "license": "SEE LICENSE IN ./LICENSE",
   "repository": {
-		"type": "git",
-		"url": "git+https://github.com/typicode/json-server.git"
-	},
+    "type": "git",
+    "url": "git+https://github.com/typicode/json-server.git"
+  },
   "devDependencies": {
     "@sindresorhus/tsconfig": "^5.0.0",
     "@tailwindcss/typography": "^0.5.10",
@@ -50,6 +50,7 @@
     "dot-prop": "^8.0.2",
     "eta": "^3.2.0",
     "inflection": "^3.0.0",
+    "json-server": "^1.0.0-alpha.23",
     "json5": "^2.2.3",
     "lowdb": "^7.0.1",
     "milliparsec": "^2.3.0",
